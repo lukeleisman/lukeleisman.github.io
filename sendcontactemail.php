@@ -28,7 +28,7 @@ $email = $_POST['demo-email'];
 $message = $_POST['demo-message'];
 
 
-$to = "lrl62.55@gmail.com";
+$to = "myemail@gmail.com";
 $subject = "New Email Address for Mailing List";
 $headers = "From: $email\n";
 
